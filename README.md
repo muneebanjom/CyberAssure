@@ -1,1 +1,2 @@
 # CyberAssure
+AI-Driven Cybersecurity Benchmarking & Prioritization Tool integrates AI to collect data from diverse business users, benchmark their cybersecurity posture against the CIS (Center for Internet Security) standards, and generate actionable recommendations. The tool identifies missing solutions and assigns project priorities (Priority 1, Priority 2, etc.) based on an organization’s current risks, compliance gaps, and resource constraints. It aims to streamline decision-making for cybersecurity investments and ensure alignment with industry best practices.
